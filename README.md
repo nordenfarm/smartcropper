@@ -1,3 +1,8 @@
+This fork changes the following:
+
+* the RMagick require is all lower case to deal with depreciated mixed case require
+* the version number is bumped to 0.7.1.1 to ensure that the gem is updated
+
 # smartcropper
 
 Content aware cropping.
